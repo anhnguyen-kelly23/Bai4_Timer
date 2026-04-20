@@ -48,7 +48,7 @@ Hệ thống sử dụng các switch trên kit để điều chỉnh thời gian
 
 ## 4. Cách Build & Run
 1. Mở dự án bằng Quartus Prime.
-2. Compile phần cứng (`Analysis & Synthesis` -> `Fitter` -> `Assembler`).
+2. Compile phần cứng.
 3. Nạp file `.sof` vào board FPGA.
 4. Mở Nios II Software Build Tools for Eclipse.
 5. Build Project và Run as Nios II Hardware.
