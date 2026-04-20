@@ -1,0 +1,9 @@
+14:04:15 **** Incremental Build of configuration Nios II for project Bai4v1 ****
+make all 
+Info: Building ../Bai4v1_bsp/
+D:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Bai4v1_bsp/
+[BSP build complete]
+[Bai4v1 build complete]
+
+14:04:16 Build Finished (took 885ms)
+
